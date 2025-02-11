@@ -18,7 +18,7 @@ This project is a **Sentiment, Emotion & Toxicity Analysis Dashboard** built wit
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-github-username/Sentiment-Analysis-Dashboard.git
+git clone https://github.com/HImeshSankhala/Sentiment-Analysis-Dashboard.git
 cd Sentiment-Analysis-Dashboard
 ```
 
